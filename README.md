@@ -5,6 +5,7 @@
 📫  How to reach me?
 
 [![linkedin](https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=&message=@arulrajnet&color=5b5b5b&labelColor=5b5b5b)](https://www.linkedin.com/in/arulrajnet/)
+[![twitter](https://img.shields.io/static/v1?style=flat-square&logo=x&label=&message=@arulrajnet&color=5b5b5b&labelColor=5b5b5b)](https://x.com/arulrajnet)
 [![github](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@arulrajnet&color=5b5b5b&labelColor=5b5b5b)](https://github.com/arulrajnet)
 [![stackoverflow](https://img.shields.io/static/v1?style=flat-square&logo=stackoverflow&label=&message=@arulrajnet&color=5b5b5b&labelColor=5b5b5b)](https://stackoverflow.com/users/458701/arulraj-net)
 
